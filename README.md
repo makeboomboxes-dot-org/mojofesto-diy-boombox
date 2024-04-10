@@ -1,1 +1,2 @@
 # mojofesto-kit
+Freedom is making and sharing the coolest boombox ever. MAKEBOOMBOXES has open sourced to the public their MOJOFESTO DIY kit boombox design, documentation and bill-of-materials. Why give away this refined design and DIY instructions to the public after investing 8 years of development and experiment? What does it take to get building your own boombox? Read our blog post for the full story and to explore the open source repository. https://makeboomboxes/blogs/news/we-are-open-sourcing-our-boombox-design 
