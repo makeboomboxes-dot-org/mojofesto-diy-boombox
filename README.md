@@ -65,7 +65,7 @@ E. **Closure** Front borders, art face magnets, connect wiring, tidy wires, back
 
 Check off each item in the testing checklist provided at the end of each build step in the assembly guide, to ensure you're ready to move on to the next step.
 
-## How to Operate and Cusomize the MOJOFESTO
+## How to Operate and Customize the MOJOFESTO
 
 To operate (and if necessary troubleshoot) the boombox to function correctly, see the Operation and Customization Guide in the docs folder. In that same document there are also customization tips and ideas.
 
