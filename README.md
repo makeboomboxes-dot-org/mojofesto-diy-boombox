@@ -53,7 +53,7 @@ The milestones and steps of the build, listed below, are accomplished by perform
 
 A. **Chassis:** Bracket tabs, ribs, frame bulkheads, corner bracings, corner curve walls, bottom wall
 
-B. **Traction:**: Feet, handle arms, handle bar
+B. **Traction:** Feet, handle arms, handle bar
 
 C. **Expansion:** Kill switch, amp board, charging jack, USB  out, Aux in, 3 walls, handle assembly 
 
