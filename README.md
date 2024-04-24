@@ -9,7 +9,9 @@ Welcome to the MAKEBOOMBOXES GitHub repository! This is the home of the MOJOFEST
 
 ## Project Description
 
-At MAKEBOOMBOXES, we believe in freedom - the freedom to make and share some of the coolest boomboxes ever. By open sourcing the MOJOFESTO design, we aim to empower audio enthusiasts, DIY makers and entrepreneurs to make their own high-quality portable bluetooth speakers and adapt the design to their needs. The repository includes complete manufacturing specifications, assembly documentation, a detailed bill of materials and tools list. Whether you're a seasoned maker or a curious newbie, the MOJOFESTO project is designed to be freely accessible to everyone.
+At MAKEBOOMBOXES, we believe in freedom - the freedom to make and share some of the coolest boomboxes ever. By open sourcing the MOJOFESTO design, we aim to empower audio enthusiasts, DIY makers and entrepreneurs to make their own high-quality portable bluetooth speakers and adapt the design to their needs. The repository includes complete manufacturing specifications, assembly documentation, a detailed bill of materials and tools list. Whether you're a seasoned maker or a curious newbie, the MOJOFESTO project is designed to be freely accessible to everyone, and clearly organized into logical build milestones:
+
+![Milestones of the build project](images/milestones-horizonal-filmstrip.jpg)
 
 ## Why make a DIY boombox?
 
