@@ -1,17 +1,15 @@
 # mojofesto-kit
-Freedom is making and sharing the coolest boombox ever. MAKEBOOMBOXES has open sourced to the public their MOJOFESTO DIY kit boombox design, documentation and bill-of-materials. Why give away this refined design and DIY instructions to the public after investing 8 years of development and experiment? What does it take to get building your own boombox? [Read our blog post](https://makeboomboxes.com/blogs/news/we-open-sourced-our-boombox-design) for more of the story.
-
-
+Freedom is making and sharing the coolest boombox ever. MAKEBOOMBOXES has open sourced to the public our MOJOFESTO DIY kit boombox. The MOJOFESTO is a powerful, portable, customizable and collaborative bluetooth speaker. Why give away this refined design and DIY instructions to the public after investing 8 years of development and experiment? What does it take to get building your own boombox? [Read our blog post](https://makeboomboxes.com/blogs/news/we-open-sourced-our-boombox-design) for more of the story.
 
 # MAKEBOOMBOXES: MOJOFESTO DIY Boombox
 
-Welcome to the MAKEBOOMBOXES GitHub repository! This is the home of the MOJOFESTO, an open source DIY kit boombox project. The MOJOFESTO is designed to be powerful, portable, customizable and collaborative. 
+Welcome the home of the MOJOFESTO open source DIY kit boombox project. Whether you're a seasoned maker or a curious newbie, the MOJOFESTO project is designed to be freely accessible to everyone, and clearly organized into logical build milestones:
+
+![Milestones of the build project](images/milestones-horizonal-filmstrip.jpg)
 
 ## Project Description
 
-At MAKEBOOMBOXES, we believe in freedom - the freedom to make and share some of the coolest boomboxes ever. By open sourcing the MOJOFESTO design, we aim to empower audio enthusiasts, DIY makers and entrepreneurs to make their own high-quality portable bluetooth speakers and adapt the design to their needs. The repository includes complete manufacturing specifications, assembly documentation, a detailed bill of materials and tools list. Whether you're a seasoned maker or a curious newbie, the MOJOFESTO project is designed to be freely accessible to everyone, and clearly organized into logical build milestones:
-
-![Milestones of the build project](images/milestones-horizonal-filmstrip.jpg)
+At MAKEBOOMBOXES, we believe in freedom - the freedom to make and share some of the coolest boomboxes ever. By open sourcing the MOJOFESTO design, we aim to empower audio enthusiasts, DIY makers and entrepreneurs to make their own high-quality portable bluetooth speakers and adapt the design to their needs. This repository includes complete manufacturing specifications, assembly documentation, a detailed bill of materials and tools list. 
 
 ## Why make a DIY boombox?
 
@@ -22,10 +20,10 @@ Inside every home-made boombox is a call for togetherness; proof that we can cre
 Behind each unique home-made high-quality boombox is a maker to show that: Yes. We can make it.
 
 ## Features
-Refined Sound: Experience lavish, detailed, spacious sound with the MOJOFESTO's innovative resonant enclosure.
-Meaningful Design: The emotive retro-future visual persona makes it a centerpiece and a conversation piece.
-Portable: Make the world your listening room with the MOJOFESTO's portable design and long-lasting battery life.
-Modular: Customize your boombox with different colors, materials, and add-ons to make it uniquely yours.
+**Refined Sound:** Experience lavish, detailed, spacious sound with the MOJOFESTO's innovative resonant enclosure.
+**Meaningful Design:** The emotive retro-future visual persona makes it a centerpiece and a conversation piece.
+**Portable:** Make the world your listening room with the MOJOFESTO's portable design and long-lasting battery life.
+**Modular:** Customize your boombox with different colors, materials, and add-ons to make it uniquely yours.
 
 ## How to Build the MOJOFESTO
 
@@ -35,7 +33,9 @@ Building your own MOJOFESTO boombox is an exciting project that involves basic w
 
 For an overview list of all parts needed, see the "get started" PDF in the docs folder.
 
-For a detailed bill of materials, see the spreadsheet file in the bom folder.
+Many of the parts are laser cut by you if you own or have access to a laser cutter, or they can be ordered from online laser-cut-to-order services like Panoko or Send Cut Send. The other parts are fasteners, wiring/connectors, and OEM electronics parts.
+
+For a detailed bill of materials with links to supplier sources, see the spreadsheet file in the bom folder.
 
 ### Tools Needed
 
