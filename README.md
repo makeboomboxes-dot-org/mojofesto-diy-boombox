@@ -80,13 +80,17 @@ We thrive on community contributions! Here are ways you can contribute:
 
 ## License
 
-This project is released under the guidelines set forth in the [Open Source Hardware (OSHW) Statement of Principles 1.0](https://www.oshwa.org/definition/). By using the design and documentation of the MOJOFESTO project, you agree to abide by its terms.
+This project is certified under the guidelines of the [Open Source Hardware (OSHW) Statement of Principles 1.0](https://www.oshwa.org/definition/). 
+
+![OSHWA Certification Mark US002628](images/certification-mark-US002628-wide-3in-150ppi.jpg)
 
 Open Source Licenses
 
 - Hardware: [CERN-OHL-W-2.0](CERN-OHL-W-2.0.md) CERN Open Hardware Licence Version 2 - Weakly Reciprocal
 - Software: not applicable to this project
 - Documentation: [CC-BY-SA-4.0](CC-BY-SA-4.0.md) Creative Commons Attribution-ShareAlike 4.0 International
+
+![Open Source Licenses](images/open-source-licenses-3in-150ppi.jpg)
 
 ## Contact
 
